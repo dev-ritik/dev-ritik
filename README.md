@@ -48,8 +48,8 @@ I am a Backend Developer interested in Computer networks.
 
 <!-- ARTICLES:START -->
 - [DNS and Privacy](https://medium.com/mobile-development-group/dns-and-privacy-d50c59428cb2?source=rss-b35575714951------2)
-- [Network Access Control](https://medium.com/@ritikk/network-access-control-6e3b27b00830?source=rss-b35575714951------2)
-- [Kishanganj 2020](https://medium.com/@ritikk/kishanganj-2020-ccee1ded4fb5?source=rss-b35575714951------2)
+- [Network Access Control](https://ritikk.medium.com/network-access-control-6e3b27b00830?source=rss-b35575714951------2)
+- [Kishanganj 2020](https://ritikk.medium.com/kishanganj-2020-ccee1ded4fb5?source=rss-b35575714951------2)
 - [Trust! TLS-SSL and HTTPS](https://medium.com/mobile-development-group/trust-tls-ssl-and-https-b925ac9d59?source=rss-b35575714951------2)
 - [HTTP & WebSockets](https://medium.com/mobile-development-group/http-websockets-9c6704e44a2a?source=rss-b35575714951------2)
 <!-- ARTICLES:END -->
