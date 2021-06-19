@@ -47,9 +47,9 @@ I am a Backend Developer interested in Computer networks.
 
 
 <!-- ARTICLES:START -->
+- [Realtime Results Livestream](https://ritikk.medium.com/realtime-results-livestream-e6d29add5e3d?source=rss-b35575714951------2)
 - [I scanned all my broadband peers.](https://ritikk.medium.com/i-scanned-all-my-broadband-peers-17febead6797?source=rss-b35575714951------2)
 - [DNS and Privacy](https://medium.com/mobile-development-group/dns-and-privacy-d50c59428cb2?source=rss-b35575714951------2)
 - [Network Access Control](https://ritikk.medium.com/network-access-control-6e3b27b00830?source=rss-b35575714951------2)
 - [Kishanganj 2020](https://ritikk.medium.com/kishanganj-2020-ccee1ded4fb5?source=rss-b35575714951------2)
-- [Trust! TLS-SSL and HTTPS](https://medium.com/mobile-development-group/trust-tls-ssl-and-https-b925ac9d59?source=rss-b35575714951------2)
 <!-- ARTICLES:END -->
