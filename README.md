@@ -19,7 +19,7 @@
   <img align="left" alt="Ritik's Youtube" width="36px" src="https://img.icons8.com/material/50/6a9fb5/youtube-play.png" />
 </a>
 <a href="mailto:ritikkne@gmail.com">
-  <img align="left" alt="Ritik's Youtube" width="36px" src="https://img.icons8.com/material/50/6a9fb5/gmail.png" />
+  <img align="left" alt="Ritik's Email" width="36px" src="https://img.icons8.com/material/50/6a9fb5/gmail.png" />
 </a>
 <a href="https://ritik.ml/resume/resume.pdf">
   <img align="left" alt="Ritik's Résumé" width="36px" src="https://img.icons8.com/material/50/6a9fb5/parse-from-clipboard.png" />
