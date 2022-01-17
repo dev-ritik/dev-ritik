@@ -28,8 +28,8 @@
 <br>
 <br>
 
-I’m [Ritik Kumar](https://ritik.ml), 4th Year Senior undergraduate from Indian Institute of Technology, Roorkee.<br />
-I am a Backend Developer interested in Computer networks.
+I’m [Ritik Kumar](https://ritik.ml), 2021 Computer Science & Engineering graduate🎓 from Indian Institute of Technology, Roorkee.<br />
+I am a Backend Developer interested in Computer Networks.
 
 - 🔭 I’m currently working on and around Linux❤️.
 - 👨‍💻 My go-to programming languages are Python, bash & Java
