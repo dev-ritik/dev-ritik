@@ -47,9 +47,9 @@ I am a Backend Developer interested in Computer Networks.
 
 
 <!-- ARTICLES:START -->
+- [Raspberry Pi Camera Live Streaming: Step-by-Step Setup](https://ritikk.medium.com/raspberry-pi-camera-live-streaming-step-by-step-setup-4476f5185847?source=rss-b35575714951------2)
+- [Income Tax Filing for Foreign Assets](https://ritikk.medium.com/income-tax-filing-for-foreign-assets-a98d77a5895e?source=rss-b35575714951------2)
 - [Jio vs TCP](https://ritikk.medium.com/jio-vs-tcp-905b7a17ea63?source=rss-b35575714951------2)
 - [Realtime Results Livestream](https://ritikk.medium.com/realtime-results-livestream-e6d29add5e3d?source=rss-b35575714951------2)
 - [I scanned all my broadband peers.](https://ritikk.medium.com/i-scanned-all-my-broadband-peers-17febead6797?source=rss-b35575714951------2)
-- [DNS and Privacy](https://medium.com/mobile-development-group/dns-and-privacy-d50c59428cb2?source=rss-b35575714951------2)
-- [Network Access Control](https://ritikk.medium.com/network-access-control-6e3b27b00830?source=rss-b35575714951------2)
 <!-- ARTICLES:END -->
