@@ -3,7 +3,7 @@
 <a href="https://github.com/dev-ritik">
   <img align="left" alt="Ritik's Github" width="36px" src="https://img.icons8.com/material/50/6a9fb5/source-code.png" />
 </a>
-<a href="https://ritik.ga">
+<a href="https://dev-ritik.github.io">
   <img align="left" alt="Ritik's Website" width="36px" src="https://img.icons8.com/material/50/6a9fb5/geography.png" />
 </a>
 <a href="https://twitter.com/ritik___">
@@ -21,19 +21,19 @@
 <a href="mailto:ritikkne@gmail.com">
   <img align="left" alt="Ritik's Email" width="36px" src="https://img.icons8.com/material/50/6a9fb5/gmail.png" />
 </a>
-<a href="https://ritik.ga/resume/resume.pdf">
+<a href="https://dev-ritik.github.io/resume/resume.pdf">
   <img align="left" alt="Ritik's Résumé" width="36px" src="https://img.icons8.com/material/50/6a9fb5/parse-from-clipboard.png" />
 </a>
 
 <br>
 <br>
 
-I’m [Ritik Kumar](https://ritik.ga), 2021 Computer Science & Engineering graduate🎓 from Indian Institute of Technology, Roorkee.<br />
+I’m [Ritik Kumar](https://dev-ritik.github.io/), 2021 Computer Science & Engineering graduate🎓 from Indian Institute of Technology, Roorkee.<br />
 I am a Backend Developer interested in Computer Networks.
 
 - 🔭 I’m currently working on and around Linux❤️.
 - 👨‍💻 My go-to programming languages are Python, bash & Java
-- 👯 I’m looking to collaborate on playing around with Linux :)
+- 👯 I’m looking to collaborate on playing around with Linux🐧:)
 - 📫 How to reach me: ritikkne@gmail.com
 - 😄 Pronouns: he/his/him
 
